@@ -1,0 +1,6 @@
+framework module Pods_TextWithImageView_Tests {
+  umbrella header "Pods-TextWithImageView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

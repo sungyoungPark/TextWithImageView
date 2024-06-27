@@ -1,0 +1,27 @@
+PODS:
+  - Kingfisher (7.12.0)
+  - SnapKit (5.7.1)
+  - TextWithImageView (0.1.0):
+    - Kingfisher (~> 7.0)
+    - SnapKit (~> 5.7.0)
+
+DEPENDENCIES:
+  - TextWithImageView (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Kingfisher
+    - SnapKit
+
+EXTERNAL SOURCES:
+  TextWithImageView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Kingfisher: 53a10ea35051a436b5fb626ca2dd8f3144d755e9
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
+  TextWithImageView: 0a6d6315edc76412808c310497055ea5749de8fe
+
+PODFILE CHECKSUM: e8c23b71beb5a72c02c02e402e3b13d27b39fa83
+
+COCOAPODS: 1.15.2
