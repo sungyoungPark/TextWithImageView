@@ -14,6 +14,10 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 텍스트 뷰에 이미지 영역을 잡아서 텍스트와 이미지를 함께 보여주는 뷰
 
+사용법 : TextWithImagwView(imageURL: '이미지 URL',text: 'textView에 넣을 string Arr', align: '이미지 정렬 방향(왼쪽, 오른쪽)', maxScale: '이미지 최대 비율 (1보다 클 수 없으며, 1보다 크면 1로 처리)')
+
+개선 방향으로 정렬 타입 다양화 할 예정
+
 ## ■ 앱 실행 이미지
 <div>
 <figure> 
