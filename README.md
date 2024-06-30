@@ -17,11 +17,11 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 ## ■ 앱 실행 이미지
 <div>
 <figure> 
-<img src="appImage/leftAlign.png" width="418" height="468">
+<img src="appImgSrc/leftAlign.png" width="418" height="468">
 <figcaption>⬅︎ 이미지 왼쪽 정렬</figcaption>
 </figure>
 <figure>
-<img src="appImage/rightAlign.png" width="423" height="452">
+<img src="appImgSrc/rightAlign.png" width="423" height="452">
 <figcaption>⬅︎ 이미지 오른쪽 정렬</figcaption>
 </figure>
 
